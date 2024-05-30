@@ -1,2 +1,3 @@
-# GYM FOR BRAYN
-![brain](https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/brain-gym-wiki_ver_1.png)
+# Let's Code 🤖
+Some attempts to solve random LeetCode problems (not entirely solved by me, the goal here is to learn more tricks and algorithms to train on problem solving) <br><br>
+![stats](https://leetcard.jacoblin.cool/Oebelus?theme=dark&font=Allerta%20Stencil)
